@@ -1,0 +1,175 @@
+
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "Indulge in a symphony of flavors crafted with the finest ingredients." 
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "Embark on a culinary journey where every bite dazzles your taste buds." 
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "FAST DELIVERY",
+                "description": "Experience the thrill of prompt delivery, bringing your cravings to your doorstep in a flash" 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./Biryani.png",
+                "title": "BIRYANI (VEG/NON-VEG)",
+                "category": "Lunch/Dinner"
+            },
+            {
+                "id": 2,
+                "image": "./paneertikka.jpeg",
+                "title": "PANEER TIKKA (VEG)",
+                "category": "Lunch/Dinner"
+            },
+            {
+                "id": 3,
+                "image": "./roganjosh.jpg",
+                "title": "ROGAN JOSH (NON-VEG)",
+                "category": "Lunch/Dinner"
+            },
+            {
+                "id": 4,
+                "image": "./malaikofta.jpeg",
+                "title": "MALAI KOFTA",
+                "category": "Lunch/Dinner"
+            },
+            {
+                "id": 5,
+                "image": "./singnoodles.jpeg",
+                "title": "SINGAPORE NOODLE",
+                "category": "All Time"
+            },
+            {
+                "id": 6,
+                "image": "./dinner4.png",
+                "title": "MUSSELS SOUP",
+                "category": "Dinner"
+            },
+            {
+                "id": 7,
+                "image": "./dinner5.png",
+                "title": "ITALIAN SPAGHETTI",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./dinner6.png",
+                "title": "GRILLED FISH",
+                "category": "Dinner"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./chef1.png",
+                "name": "ANDREW JOSEPH",
+                "designation": "Founder & Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "./chef2.png",
+                "name": "ALANKRITI CHAUHAN",
+                "designation": "Sous Chef"
+            },
+            {
+                "id": 3,
+                "image": "./chef3.png",
+                "name": "MOHAN TIWARI",
+                "designation": "Fast Food Chef"
+            },
+            {
+                "id": 4,
+                "image": "./chef4.png",
+                "name": "SHILADITYA BHATI",
+                "designation": "Senior Chef"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "14",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "04",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "100",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
